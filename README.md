@@ -83,7 +83,7 @@
     <thead>
         <tr>
             <th align='center'>Package</th>
-            <th align='center'>Method</th>
+            <th align='center' width='65%'>Method</th>
             <th align='center'>R document</th>
         </tr>
     </thead>
