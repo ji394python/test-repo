@@ -1,4 +1,4 @@
-### > pwr is most popular R package for calculating sample size
+## > pwr is most popular R package for calculating sample size
 <table>
     <thead>
         <tr>
