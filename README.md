@@ -46,7 +46,6 @@
             <span>3. paired sample</span></td>
             <td rowspan=4>pwr.t.test</td>
         </tr>
-        
         <tr>
             <td>T-test: two independent samples with different sample size</td>
             <td>pwr.t2n.test</td>
