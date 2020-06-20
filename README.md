@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td colspan='2' align='center' style='background-color:#2674BA; color:white; font-weight:700;' >总部库存</td>
+    <td colspan='2' align='center' style="background-color:#2674BA; color:white; font-weight:700;" >总部库存</td>
     <td colspan='2' >经销商库存</td>
   </tr>
   <tr>
