@@ -40,7 +40,7 @@
             <td>pwr.2p2n.test</td>
         </tr>
         <tr>
-            <td rowspan=4><span>T-test</span>
+            <td rowspan=4><span>T-test</span> <br/>
             <span>1. one sample/n 2. two independent samples with same sample size/n3. paired sample</span></td>
             <td rowspan=4>pwr.t.test</td>
         </tr>
