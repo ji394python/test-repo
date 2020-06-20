@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td colspan=”2″ >总部库存</td>
-    <td colspan=”2″ >经销商库存</td>
+    <td colspan='2' >总部库存</td>
+    <td colspan='2' >经销商库存</td>
   </tr>
   <tr>
     <td>（在产线上）生产中</td>
