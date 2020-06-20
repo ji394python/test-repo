@@ -41,7 +41,9 @@
         </tr>
         <tr>
             <td rowspan=4><span>T-test</span> <br/>
-            <span>1. one sample/n 2. two independent samples with same sample size/n3. paired sample</span></td>
+            <span>1. one sample</span> <br/>
+            <span>2. two independent samples with same sample size</span> <br/>
+            <span>3. paired sample</span></td>
             <td rowspan=4>pwr.t.test</td>
         </tr>
         <tr>
