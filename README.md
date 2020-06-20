@@ -76,9 +76,9 @@
 <br/>
 * table made: 2020/06/08
 
-<h/>
+<hr/>
 
-### >Other R packages for calculating sample size 
+### > Other R packages for calculating sample size 
 <table>
     <thead>
         <tr>
