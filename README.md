@@ -1,4 +1,4 @@
-## pwr is most popular R package for calculating sample size
+### >pwr is most popular R package for calculating sample size
 <table>
     <thead>
         <tr>
@@ -43,12 +43,12 @@
     </tbody>
 </table>
 * R document: https://cran.r-project.org/web/packages/rms/rms.pdf_
+<br/
 * table made: 2020/06/08
 
-<br/>
+<h/>
 
-
-## Other R packages for calculating sample size 
+### >Other R packages for calculating sample size 
 <table>
     <thead>
         <tr>
@@ -59,10 +59,9 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=16>pwr</td>
-            <td rowspan=4>Effect size calculation</td>
-            <td>calculate the conventional effect size for the tests</td>
-            <td>cohen.ES</td>
+            <td>TrialSize</td>
+            <td>functions and examples in Sample Size Calculation in Clinical Research.</td>
+            <td href='https://cran.csiro.au/web/packages/TrialSize/TrialSize.pdf'>https://cran.csiro.au/web/packages/TrialSize/TrialSize.pdf</td>
         </tr>
         <tr>
             <td>chi-squared test of goodness of test for two sets of k probabilities</td>
