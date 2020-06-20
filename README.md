@@ -72,7 +72,7 @@
         </tr>
     </tbody>
 </table>
-* R document: https://cran.r-project.org/web/packages/rms/rms.pdf_
+* R document: https://cran.r-project.org/web/packages/rms/rms.pdf
 <br/>
 * table made: 2020/06/08
 
@@ -91,7 +91,7 @@
         <tr>
             <td>TrialSize</td>
             <td>functions and examples in Sample Size Calculation in Clinical Research.</td>
-            <td href='https://cran.csiro.au/web/packages/TrialSize/TrialSize.pdf'>Here</td>
+            <td><a href='href='https://cran.csiro.au/web/packages/TrialSize/TrialSize.pdf''>Here</a></td>
         </tr> 
         <tr>
             <td>CRTSize</td>
